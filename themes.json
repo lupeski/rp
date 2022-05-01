@@ -13,6 +13,7 @@
 		border: '#f4f4f4',
 		altColor: 'gray',
 		isCustom: true,
+		creator: 'u/lupeski'
 	},
 	{
 		name: 'Ocean sunset',
@@ -28,6 +29,7 @@
 		border: '#f4f4f4',
 		altColor: 'gray',
 		isCustom: true,
+		creator: 'u/lupeski'
 	},
 	{
 		name: 'Midnight',
@@ -43,6 +45,7 @@
 		border: '#f4f4f4',
 		altColor: 'gray',
 		isCustom: true,
+		creator: 'u/lupeski'
 	},
 	{
 		name: 'Greeny',
@@ -58,6 +61,7 @@
 		border: '#f4f4f4',
 		altColor: 'gray',
 		isCustom: true,
+		creator: 'u/lupeski'
 	},
 	{
 		name: 'Scarlet gray',
@@ -73,6 +77,7 @@
 		border: '#f4f4f4',
 		altColor: 'gray',
 		isCustom: true,
+		creator: 'u/lupeski'
 	},
 	{
 		name: 'Storm',
@@ -88,6 +93,7 @@
 		border: '#f4f4f4',
 		altColor: 'gray',
 		isCustom: true,
+		creator: 'u/lupeski'
 	},
 	{
 		name: 'Blink',
@@ -103,6 +109,7 @@
 		border: '#f4f4f4',
 		altColor: 'gray',
 		isCustom: true,
+		creator: 'u/lupeski'
 	},
 	{
 		name: 'Black tomato',
@@ -118,6 +125,7 @@
 		border: '#f4f4f4',
 		altColor: 'gray',
 		isCustom: true,
+		creator: 'u/lupeski'
 	},
 	{
 		name: 'Pink dream',
@@ -133,5 +141,6 @@
 		border: '#f4f4f4',
 		altColor: 'gray',
 		isCustom: true,
+		creator: 'u/cdimaio3289'
 	},
 ]
