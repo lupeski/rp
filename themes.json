@@ -48,18 +48,6 @@
 		creator: 'u/lupeski'
 	},
 	{
-		name: 'Scarlet gray',
-		style: 'dark',
-		accentColor: '#cc0b0b',
-		background: '#480000',
-		altBackground: '#484848',
-		flyoutBackground: '#505050',
-		tabBarBackground: '#373737',
-		mainFont: '#ffffff',
-		isCustom: true,
-		creator: 'u/lupeski'
-	},
-	{
 		name: 'Storm',
 		style: 'dark',
 		accentColor: '#c02800',
