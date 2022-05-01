@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Dark1",
+		"style": "dark",
+		"accentColor": "#ff0061",
+		"background": "#663b3e",
+		"altBackground": "#000000",
+		"backgroundTransparent": "rgba(0,0,0,0)",
+		"flyoutBackground": "#202020",
+		"tabBarBackground": "#080808",
+		"mainFont": "white",
+		"altFont": "white",
+		"border": "#f4f4f4",
+		"altColor": "gray",
+		"isCustom": true
+	},
+	{
+		"name": "Gold tabs",
+		"style": "dark",
+		"accentColor": "#dc2b60",
+		"background": "#3d95d8",
+		"altBackground": "#141414",
+		"backgroundTransparent": "rgba(20,20,20,0)",
+		"flyoutBackground": "#3e6d92",
+		"tabBarBackground": "#c7aa1a",
+		"mainFont": "#fcfcfc",
+		"altFont": "white",
+		"border": "#f4f4f4",
+		"altColor": "gray",
+		"isCustom": true
+	}
+]
