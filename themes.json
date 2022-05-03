@@ -94,17 +94,5 @@
 		"mainFont": "#000000",
 		"isCustom": true,
 		"creator": "u/cdimaio3289"
-	},
-		{
-		"name": "Blink",
-		"style": "light",
-		"accentColor": "#ffbff3",
-		"background": "#a0a0a0",
-		"altBackground": "#6e6565",
-		"flyoutBackground": "#aaaaaa",
-		"tabBarBackground": "#ffb0e7",
-		"mainFont": "#000000",
-		"isCustom": true,
-		"creator": "u/cdimaio3289"
 	}
 ]
