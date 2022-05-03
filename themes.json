@@ -12,18 +12,6 @@
 		"creator": "u/lupeski"
 	},
 	{
-		"name": "Ocean sunset",
-		"style": "dark",
-		"accentColor": "#e76f51",
-		"background": "#2a9d8f",
-		"altBackground": "#f4a261",
-		"flyoutBackground": "#264652",
-		"tabBarBackground": "#000b24",
-		"mainFont": "#e5e5e5",
-		"isCustom": true,
-		"creator": "u/lupeski"
-	},
-	{
 		"name": "Scarlet & Gray",
 		"style": "dark",
 		"accentColor": "#ff0000",
@@ -80,6 +68,18 @@
 		"flyoutBackground": "#008fa1",
 		"tabBarBackground": "#000000",
 		"mainFont": "#ffffff",
+		"isCustom": true,
+		"creator": "u/lupeski"
+	},
+	{
+		"name": "Ocean sunset",
+		"style": "dark",
+		"accentColor": "#e76f51",
+		"background": "#2a9d8f",
+		"altBackground": "#f4a261",
+		"flyoutBackground": "#264652",
+		"tabBarBackground": "#000b24",
+		"mainFont": "#e5e5e5",
 		"isCustom": true,
 		"creator": "u/lupeski"
 	},
