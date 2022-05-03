@@ -24,18 +24,6 @@
 		"creator": "u/lupeski"
 	},
 	{
-		"name": "Midnight",
-		"style": "dark",
-		"accentColor": "#ffc300",
-		"background": "#001d3d",
-		"altBackground": "#000814",
-		"flyoutBackground": "#003566",
-		"tabBarBackground": "#000814",
-		"mainFont": "#ffffff",
-		"isCustom": true,
-		"creator": "u/lupeski"
-	},
-	{
 		"name": "Scarlet & Gray",
 		"style": "dark",
 		"accentColor": "#ff0000",
