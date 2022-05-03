@@ -36,6 +36,30 @@
 		"creator": "u/lupeski"
 	},
 	{
+		"name": "Scarlet & Gray",
+		"style": "dark",
+		"accentColor": "#ff0000",
+		"background": "#2a2a2a",
+		"altBackground": "#000000",
+		"flyoutBackground": "#101010",
+		"tabBarBackground": "#bb0000",
+		"mainFont": "white",
+		"isCustom": true,
+		"creator": "u/lupeski"
+	},
+	{
+		"name": "Scarlet & Gray",
+		"style": "dark",
+		"accentColor": "#ff0000",
+		"background": "#2a2a2a",
+		"altBackground": "#000000",
+		"flyoutBackground": "#101010",
+		"tabBarBackground": "#bb0000",
+		"mainFont": "white",
+		"isCustom": true,
+		"creator": "u/lupeski"
+	},
+	{
 		"name": "Greeny",
 		"style": "dark",
 		"accentColor": "#52b788",
@@ -94,17 +118,5 @@
 		"mainFont": "#000000",
 		"isCustom": true,
 		"creator": "u/cdimaio3289"
-	},
-		{
-		"name": "Scarlet & Gray",
-		"style": "dark",
-		"accentColor": "#ff0000",
-		"background": "#2a2a2a",
-		"altBackground": "#000000",
-		"flyoutBackground": "#101010",
-		"tabBarBackground": "#bb0000",
-		"mainFont": "white",
-		"isCustom": true,
-		"creator": "u/lupeski"
 	}
 ]
