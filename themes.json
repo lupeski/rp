@@ -24,6 +24,18 @@
 		"creator": "u/lupeski"
 	},
 	{
+		"name": "Sea foam",
+		"style": "dark",
+		"accentColor": "#00f2ff",
+		"background": "#030015",
+		"altBackground": "#3b3b3b",
+		"flyoutBackground": "#50697a",
+		"tabBarBackground": "#035f65",
+		"mainFont": "white",
+		"isCustom": true,
+		"creator": "u/cdimaio3289"
+	},
+	{
 		"name": "Greeny",
 		"style": "dark",
 		"accentColor": "#52b788",
