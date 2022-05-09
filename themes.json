@@ -118,5 +118,17 @@
 		"mainFont": "#e5cec1",
 		"isCustom": true,
 		"creator": "u/cdimaio3289"
+	},
+		{
+		"name": "Noctis",
+		"style": "dark",
+		"accentColor": "#762e2e",
+		"background": "#151515",
+		"altBackground": "#202020",
+		"flyoutBackground": "#202020",
+		"tabBarBackground": "#202020",
+		"mainFont": "white",
+		"isCustom": true,
+		"creator": "u/dustinwithay"
 	}
 ]
