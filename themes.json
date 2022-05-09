@@ -106,5 +106,17 @@
 		"mainFont": "#000000",
 		"isCustom": true,
 		"creator": "u/cdimaio3289"
+	},
+	{
+		"name": "Boho",
+		"style": "dark",
+		"accentColor": "#d6316d",
+		"background": "#1e1e1e",
+		"altBackground": "#722620",
+		"flyoutBackground": "#6d454a",
+		"tabBarBackground": "#c58c7d",
+		"mainFont": "#e5cec1",
+		"isCustom": true,
+		"creator": "u/cdimaio3289"
 	}
 ]
