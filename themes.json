@@ -119,7 +119,7 @@
 		"isCustom": true,
 		"creator": "u/cdimaio3289"
 	},
-		{
+	{
 		"name": "Noctis",
 		"style": "dark",
 		"accentColor": "#762e2e",
@@ -130,5 +130,17 @@
 		"mainFont": "white",
 		"isCustom": true,
 		"creator": "u/dustinwithay"
-	}
+	},
+	{
+		"name": "Vintage",
+		"style": "dark",
+		"accentColor": "#6fcb9f",
+		"background": "#270245",
+		"altBackground": "#871a85",
+		"flyoutBackground": "#790075",
+		"tabBarBackground": "#5d0049",
+		"mainFont": "#ffe2c2",
+		"isCustom": true,
+		"creator": "u/ScadMan"
+	},
 ]
