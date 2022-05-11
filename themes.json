@@ -132,6 +132,18 @@
 		"creator": "u/dustinwithay"
 	},
 	{
+		"name": "Noctis alt",
+		"style": "dark",
+		"accentColor": "#762e2e",
+		"background": "#202020",
+		"altBackground": "#151515",
+		"flyoutBackground": "#151515",
+		"tabBarBackground": "#762e2e",
+		"mainFont": "white",
+		"isCustom": true,
+		"creator": "u/dustinwithay"
+	},
+	{
 		"name": "Retro",
 		"style": "dark",
 		"accentColor": "#6fcb9f",
