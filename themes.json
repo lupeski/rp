@@ -154,5 +154,29 @@
 		"mainFont": "#ffe2c2",
 		"isCustom": true,
 		"creator": "u/ScadMan"
+	},
+	{
+		"name": "Classic reddit",
+		"style": "light",
+		"accentColor": "#ff4d02",
+		"background": "ffffff",
+		"altBackground": "#ffffff",
+		"flyoutBackground": "#e0ecff",
+		"tabBarBackground": "#ececec",
+		"mainFont": "#0066cc",
+		"isCustom": true,
+		"creator": "u/lupeski"
+	},
+	{
+		"name": "Blue magic",
+		"style": "dark",
+		"accentColor": "#0083ff",
+		"background": "000000",
+		"altBackground": "#141414",
+		"flyoutBackground": "#002a66",
+		"tabBarBackground": "#0059ad",
+		"mainFont": "#9ccfff",
+		"isCustom": true,
+		"creator": "u/lupeski"
 	}
 ]
