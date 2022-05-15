@@ -178,5 +178,29 @@
 		"mainFont": "#9ccfff",
 		"isCustom": true,
 		"creator": "u/lupeski"
+	},
+	{
+		"name": "Forest sunset",
+		"style": "dark",
+		"accentColor": "#e9c46a",
+		"background": "#0b2631",
+		"altBackground": "#2a9d8f",
+		"flyoutBackground": "#e76f51",
+		"tabBarBackground": "#f4a261",
+		"mainFont": "#f8edd5",
+		"isCustom": true,
+		"creator": "u/lupeski"
+	},
+	{
+		"name": "T",
+		"style": "dark",
+		"accentColor": "#ff88b4",
+		"background": "#4382bd",
+		"altBackground": "#1c4c74",
+		"flyoutBackground": "#051e35",
+		"tabBarBackground": "#b45f80",
+		"mainFont": "#9ccfff",
+		"isCustom": true,
+		"creator": "u/lupeski"
 	}
 ]
