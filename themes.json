@@ -202,5 +202,17 @@
 		"mainFont": "#9ccfff",
 		"isCustom": true,
 		"creator": "u/lupeski"
+	},
+	{
+		"name": "Unnamed",
+		"style": "dark",
+		"accentColor": "#8600ff",
+		"background": "#191919",
+		"altBackground": "#222222",
+		"flyoutBackground": "#1a1a1a",
+		"tabBarBackground": "#1c1c1c",
+		"mainFont": "white",
+		"isCustom": true,
+		"creator": "u/imsitco"
 	}
 ]
