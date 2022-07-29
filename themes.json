@@ -214,5 +214,17 @@
 		"mainFont": "white",
 		"isCustom": true,
 		"creator": "u/imsitco"
-	}
+	},
+	{
+		"name": "Mary Jane",
+		"style": "dark",
+		"accentColor": "#197037",
+		"background": "#171717",
+		"altBackground": "#1f2720",
+		"flyoutBackground": "#253928",
+		"tabBarBackground": "#0c2015",
+		"mainFont": "#c2c2c2",
+		"isCustom": true,
+		"creator": "u/averagehatemachine"
+	},
 ]
