@@ -226,5 +226,17 @@
 		"mainFont": "#c2c2c2",
 		"isCustom": true,
 		"creator": "u/averagehatemachine"
+	},
+	{
+		"name": "Cyan",
+		"style": "dark",
+		"accentColor": "#0084ff",
+		"background": "#2a2a2a",
+		"altBackground": "#000000",
+		"flyoutBackground": "#101010",
+		"tabBarBackground": "#0063bb",
+		"mainFont": "white",
+		"isCustom": true,
+		"creator": "u/lupeski"
 	}
 ]
