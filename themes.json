@@ -238,5 +238,17 @@
 		"mainFont": "white",
 		"isCustom": true,
 		"creator": "u/lupeski"
+	},
+	{
+		"name": "Boost™",
+		"style": "dark",
+		"accentColor": "#ee4957",
+		"background": "#1b2936",
+		"altBackground": "#17212d",
+		"flyoutBackground": "#17212d",
+		"tabBarBackground": "#1b2936",
+		"mainFont": "white",
+		"isCustom": true,
+		"creator": "u/NaiveFroog"
 	}
 ]
