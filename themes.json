@@ -250,5 +250,17 @@
 		"mainFont": "white",
 		"isCustom": true,
 		"creator": "u/NaiveFroog"
+	},
+	{
+		"name": "Shmoost™",
+		"style": "dark",
+		"accentColor": "#ee4957",
+		"background": "#1b3750",
+		"altBackground": "#0f1a26",
+		"flyoutBackground": "#12243a",
+		"tabBarBackground": "#7b2a31",
+		"mainFont": "white",
+		"isCustom": true,
+		"creator": "u/lupeski"
 	}
 ]
