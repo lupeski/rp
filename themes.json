@@ -262,5 +262,17 @@
 		"mainFont": "white",
 		"isCustom": true,
 		"creator": "u/lupeski"
-	}
+	},
+	{
+		"name": "Pony",
+		"style": "light",
+		"accentColor": "#cb002f",
+		"background": "#fefffe",
+		"altBackground": "#fbf3e8",
+		"flyoutBackground": "#fffbf6",
+		"tabBarBackground": "#fefefe",
+		"mainFont": "#00003c",
+		"isCustom": true,
+		"creator": "u/lupeski"
+	},
 ]
