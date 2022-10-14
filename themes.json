@@ -274,5 +274,17 @@
 		"mainFont": "#00003c",
 		"isCustom": true,
 		"creator": "u/lupeski"
+	},
+	{
+		"name": "White Light",
+		"style": "light",
+		"accentColor": "#071075",
+		"background": "white",
+		"altBackground": "#fdfdfd",
+		"flyoutBackground": "#efefef",
+		"tabBarBackground": "#fdfdfd",
+		"mainFont": "#282828",
+		"isCustom": true,
+		"creator": "u/0oWow"
 	}
 ]
