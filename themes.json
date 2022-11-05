@@ -293,7 +293,7 @@
 		"accentColor": "#b9a400",
 		"background": "#111111",
 		"altBackground": "#000000",
-		"flyoutBackground": "#000000",
+		"flyoutBackground": "#100e00",
 		"tabBarBackground": "#151300",
 		"mainFont": "#fffbea",
 		"isCustom": true,
