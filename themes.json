@@ -286,5 +286,17 @@
 		"mainFont": "#282828",
 		"isCustom": true,
 		"creator": "u/0oWow"
+	},
+		{
+		"name": "Dark Knight",
+		"style": "dark",
+		"accentColor": "#b9a400",
+		"background": "#111111",
+		"altBackground": "#000000",
+		"flyoutBackground": "#1c1900",
+		"tabBarBackground": "#151300",
+		"mainFont": "#fff9e0",
+		"isCustom": true,
+		"creator": "u/lupeski"
 	}
 ]
