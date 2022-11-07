@@ -287,7 +287,7 @@
 		"isCustom": true,
 		"creator": "u/0oWow"
 	},
-		{
+	{
 		"name": "Dark Knight",
 		"style": "dark",
 		"accentColor": "#b9a400",
@@ -296,6 +296,18 @@
 		"flyoutBackground": "#131313",
 		"tabBarBackground": "#151300",
 		"mainFont": "#fffbea",
+		"isCustom": true,
+		"creator": "u/lupeski"
+	},
+	{
+		"name": "Mint",
+		"style": "light",
+		"accentColor": "#00e5ac",
+		"background": "white",
+		"altBackground": "#fdfdfd",
+		"flyoutBackground": "#ffffff",
+		"tabBarBackground": "#fdfdfd",
+		"mainFont": "#2e2e2e",
 		"isCustom": true,
 		"creator": "u/lupeski"
 	}
