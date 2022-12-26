@@ -310,5 +310,17 @@
 		"mainFont": "#2e2e2e",
 		"isCustom": true,
 		"creator": "u/almzau"
+	},
+	{
+		"name": "Dracula",
+		"style": "dark",
+		"accentColor": "#bd93f9",
+		"background": "#282a36",
+		"altBackground": "#282a36",
+		"flyoutBackground": "#44475a",
+		"tabBarBackground": "#282a36",
+		"mainFont": "#f8f8f2",
+		"isCustom": true,
+		"creator": "u/phantasm_ai"
 	}
 ]
