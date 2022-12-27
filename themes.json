@@ -322,5 +322,17 @@
 		"mainFont": "#f8f8f2",
 		"isCustom": true,
 		"creator": "u/phantasm_ai"
+	},
+	{
+		"name": "Very Dark",
+		"style": "dark",
+		"accentColor": "#ff0400",
+		"background": "#000000",
+		"altBackground": "#251f1f",
+		"flyoutBackground": "#000000",
+		"tabBarBackground": "#000000",
+		"mainFont": "#ffffff",
+		"isCustom": true,
+		"creator": "u/moehrenfeld"
 	}
 ]
