@@ -324,6 +324,18 @@
 		"creator": "u/phantasm_ai"
 	},
 	{
+		"name": "Dracula2",
+		"style": "dark",
+		"accentColor": "#bd93f9",
+		"background": "#2c3143",
+		"altBackground": "#282a36",
+		"flyoutBackground": "#44475a",
+		"tabBarBackground": "#282a36",
+		"mainFont": "#f8f8f2",
+		"isCustom": true,
+		"creator": "u/phantasm_ai"
+	},
+	{
 		"name": "Very Dark",
 		"style": "dark",
 		"accentColor": "#ff0400",
