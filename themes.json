@@ -346,5 +346,17 @@
 		"mainFont": "#ffffff",
 		"isCustom": true,
 		"creator": "u/moehrenfeld"
+	},
+	{
+		"name": "Default Reddit",
+		"style": "dark",
+		"accentColor": "#981f14",
+		"background": "#121212",
+		"altBackground": "#101010",
+		"flyoutBackground": "#121212",
+		"tabBarBackground": "#121212",
+		"mainFont": "#d6d6d8",
+		"isCustom": true,
+		"creator": "u/grvy_trn"
 	}
 ]
