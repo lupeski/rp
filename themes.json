@@ -370,5 +370,17 @@
 		"mainFont": "#fdf0ed",
 		"isCustom": true,
 		"creator": "u/bxnished"
+	},
+	{
+		"name": "Teal",
+		"style": "dark",
+		"accentColor": "#035f65",
+		"background": "#303030",
+		"altBackground": "#252525",
+		"flyoutBackground": "#303030",
+		"tabBarBackground": "#035f65",
+		"mainFont": "white",
+		"isCustom": true,
+		"creator": "u/Alesawr"
 	}
 ]
