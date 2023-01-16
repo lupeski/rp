@@ -382,5 +382,17 @@
 		"mainFont": "white",
 		"isCustom": true,
 		"creator": "u/Alesawr"
+	},
+	{
+		"name": "Electric",
+		"style": "dark",
+		"accentColor": "#40d2e6",
+		"background": "#142431",
+		"altBackground": "#121418",
+		"flyoutBackground": "#161a20",
+		"tabBarBackground": "#171c25",
+		"mainFont": "white",
+		"isCustom": true,
+		"creator": "u/lts_stuck"
 	}
 ]
