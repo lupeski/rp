@@ -394,5 +394,17 @@
 		"mainFont": "white",
 		"isCustom": true,
 		"creator": "u/lts_stuck"
+	},
+	{
+		"name": "Sandstorm",
+		"style": "dark",
+		"accentColor": "#b68d40",
+		"background": "#171515",
+		"altBackground": "#171515",
+		"flyoutBackground": "#171515",
+		"tabBarBackground": "#171515",
+		"mainFont": "#f4ebd0",
+		"isCustom": true,
+		"creator": "u/bxnished"
 	}
 ]
