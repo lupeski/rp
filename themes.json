@@ -406,5 +406,17 @@
 		"mainFont": "#f4ebd0",
 		"isCustom": true,
 		"creator": "u/bxnished"
+	},
+	{
+		"name": "Nord",
+		"style": "dark",
+		"accentColor": "#88c0d0",
+		"background": "#3b4252",
+		"altBackground": "#2e3440",
+		"flyoutBackground": "#434c5e",
+		"tabBarBackground": "#2e3440",
+		"mainFont": "#e5e9f0",
+		"isCustom": true,
+		"creator": "u/Rithela"
 	}
 ]
