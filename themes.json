@@ -418,5 +418,17 @@
 		"mainFont": "#e5e9f0",
 		"isCustom": true,
 		"creator": "u/Rithela"
+	},
+	{
+		"name": "Hint of pink",
+		"style": "dark",
+		"accentColor": "#f300ab",
+		"background": "black",
+		"altBackground": "black",
+		"flyoutBackground": "#101010",
+		"tabBarBackground": "black",
+		"mainFont": "white",
+		"isCustom": true,
+		"creator": "u/Whydoiusethissite"
 	}
 ]
