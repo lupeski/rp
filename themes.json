@@ -442,5 +442,17 @@
 		"mainFont": "#e199f2",
 		"isCustom": true,
 		"creator": "u/RaevynReaper"
+	},
+	{
+		"name": "Discord",
+		"style": "dark",
+		"accentColor": "#5865f2",
+		"background": "#40444b",
+		"altBackground": "#202225",
+		"flyoutBackground": "#2f3136",
+		"tabBarBackground": "#36393f",
+		"mainFont": "#ffffff",
+		"isCustom": true,
+		"creator": "u/MSM_Xeno13"
 	}
 ]
