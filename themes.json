@@ -430,5 +430,17 @@
 		"mainFont": "white",
 		"isCustom": true,
 		"creator": "u/Whydoiusethissite"
+	},
+	{
+		"name": "Dark Light",
+		"style": "dark",
+		"accentColor": "#508db5",
+		"background": "31062d",
+		"altBackground": "#333333",
+		"flyoutBackground": "#292929",
+		"tabBarBackground": "#141414",
+		"mainFont": "e199f2",
+		"isCustom": true,
+		"creator": "u/RaevynReaper"
 	}
 ]
