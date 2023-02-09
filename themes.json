@@ -454,5 +454,17 @@
 		"mainFont": "#ffffff",
 		"isCustom": true,
 		"creator": "u/MSM_Xeno13"
+	},
+	{
+		"name": "Wavey",
+		"style": "dark",
+		"accentColor": "#6bde3b",
+		"background": "#1b3238",
+		"altBackground": "#1c292f",
+		"flyoutBackground": "#1b3238",
+		"tabBarBackground": "#1c292f",
+		"mainFont": "#ffffff",
+		"isCustom": true,
+		"creator": "u/phantasm_ai"
 	}
 ]
