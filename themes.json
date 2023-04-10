@@ -466,5 +466,17 @@
 		"mainFont": "#ffffff",
 		"isCustom": true,
 		"creator": "u/phantasm_ai"
+	},
+	{
+		"name": "Dark powder",
+		"style": "dark",
+		"accentColor": "#a2bfde",
+		"background": "#14213d",
+		"altBackground": "#000b24",
+		"flyoutBackground": "#000615",
+		"tabBarBackground": "#000b24",
+		"mainFont": "#ffffff",
+		"isCustom": true,
+		"creator": "u/Idolmistress"
 	}
 ]
