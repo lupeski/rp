@@ -478,5 +478,17 @@
 		"mainFont": "#ffffff",
 		"isCustom": true,
 		"creator": "u/Idolmistress"
+	},
+	{
+		"name": "Baby Blue",
+		"style": "dark",
+		"accentColor": "#67abea",
+		"background": "#1a1a1a",
+		"altBackground": "#101010",
+		"flyoutBackground": "#101010",
+		"tabBarBackground": "#1b4164",
+		"mainFont": "#ffffff",
+		"isCustom": true,
+		"creator": "u/ottoofc"
 	}
 ]
