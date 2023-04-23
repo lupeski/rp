@@ -490,5 +490,18 @@
 		"mainFont": "#ffffff",
 		"isCustom": true,
 		"creator": "u/ottoofc"
+	},
+	{
+		"name": "Tiny pink",
+		"style": "dark",
+		"accentColor": "#f300ab",
+		"background": "black",
+		"altBackground": "#000000",
+		"flyoutBackground": "#000000",
+		"tabBarBackground": "#1d1d1d",
+		"mainFont": "white",
+		"isCustom": true,
+		"creator": "u/Whydoiusethissite"
 	}
+	
 ]
