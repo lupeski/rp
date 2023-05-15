@@ -502,6 +502,17 @@
 		"mainFont": "white",
 		"isCustom": true,
 		"creator": "u/Whydoiusethissite"
+	},
+	{
+		"name": "Everforest",
+		"style": "dark",
+		"accentColor": "#a7c080",
+		"background": "#475258",
+		"altBackground": "#2d353b",
+		"flyoutBackground": "#56635f",
+		"tabBarBackground": "#2d353b",
+		"mainFont": "#d3c6aa",
+		"isCustom": true,
+		"creator": "u/II-III-V-VII-XI"
 	}
-	
 ]
