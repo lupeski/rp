@@ -514,5 +514,17 @@
 		"mainFont": "#d3c6aa",
 		"isCustom": true,
 		"creator": "u/II-III-V-VII-XI"
+	},
+	{
+		"name": "YaGotta Believe",
+		"style": "dark",
+		"accentColor": "#8d918d",
+		"background": "#000000",
+		"altBackground": "#002d72",
+		"flyoutBackground": "#051e35",
+		"tabBarBackground": "#8d918d",
+		"mainFont": "#ff5910",
+		"isCustom": true,
+		"creator": "u/GhostCowboy76"
 	}
 ]
