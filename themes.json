@@ -550,5 +550,17 @@
 		"mainFont": "#ffffff",
 		"isCustom": true,
 		"creator": "u/LordTopley"
+	},
+	{
+		"name": "Rose Pine",
+		"style": "light",
+		"accentColor": "#b4637a",
+		"background": "#faf4ed",
+		"altBackground": "#f2e9e1",
+		"flyoutBackground": "#cecacd",
+		"tabBarBackground": "#f2e9e1",
+		"mainFont": "#575279",
+		"isCustom": true,
+		"creator": "u/II-III-V-VII-XI"
 	}
 ]
