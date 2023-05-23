@@ -538,5 +538,17 @@
 		"mainFont": "#dcd7ba",
 		"isCustom": true,
 		"creator": "u/II-III-V-VII-XI"
+	},
+	{
+		"name": "Bear Sites",
+		"style": "dark",
+		"accentColor": "#94ab94",
+		"background": "#1e1e1e",
+		"altBackground": "#29282b",
+		"flyoutBackground": "#292929",
+		"tabBarBackground": "#3b3b3b",
+		"mainFont": "#ffffff",
+		"isCustom": true,
+		"creator": "u/LordTopley"
 	}
 ]
