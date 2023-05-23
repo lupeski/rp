@@ -526,5 +526,17 @@
 		"mainFont": "#ff5910",
 		"isCustom": true,
 		"creator": "u/GhostCowboy76"
+	},
+	{
+		"name": "Kanagawa",
+		"style": "dark",
+		"accentColor": "#ffa066",
+		"background": "#1f1f28",
+		"altBackground": "#181820",
+		"flyoutBackground": "#223249",
+		"tabBarBackground": "#181820",
+		"mainFont": "#dcd7ba",
+		"isCustom": true,
+		"creator": "u/II-III-V-VII-XI"
 	}
 ]
