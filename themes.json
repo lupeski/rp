@@ -562,5 +562,41 @@
 		"mainFont": "#575279",
 		"isCustom": true,
 		"creator": "u/II-III-V-VII-XI"
+	},
+	{
+		"name": "Lux",
+		"style": "dark",
+		"accentColor": "#d44f24",
+		"background": "#fdf8ed",
+		"altBackground": "#f8f1e3",
+		"flyoutBackground": "#c6cfd0",
+		"tabBarBackground": "#f8f1e3",
+		"mainFont": "#23555f",
+		"isCustom": true,
+		"creator": "u/II-III-V-VII-XI"
+	},
+	{
+		"name": "Oxocarbon",
+		"style": "dark",
+		"accentColor": "#ff7eb6",
+		"background": "#0d1117",
+		"altBackground": "#161b22",
+		"flyoutBackground": "#3a4763",
+		"tabBarBackground": "#161b22",
+		"mainFont": "#f2f4f8",
+		"isCustom": true,
+		"creator": "u/II-III-V-VII-XI"
+	},
+	{
+		"name": "Gruvbox",
+		"style": "dark",
+		"accentColor": "#d8a657",
+		"background": "#282828",
+		"altBackground": "#1b1b1b",
+		"flyoutBackground": "#374141",
+		"tabBarBackground": "#1b1b1b",
+		"mainFont": "#d4be98",
+		"isCustom": true,
+		"creator": "u/II-III-V-VII-XI"
 	}
 ]
