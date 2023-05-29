@@ -598,5 +598,29 @@
 		"mainFont": "#d4be98",
 		"isCustom": true,
 		"creator": "u/II-III-V-VII-XI"
+	},
+	{
+		"name": "Stark",
+		"style": "light",
+		"accentColor": "#000000",
+		"background": "#ffffff",
+		"altBackground": "#ffffff",
+		"flyoutBackground": "#ffffff",
+		"tabBarBackground": "#ffffff",
+		"mainFont": "#000000",
+		"isCustom": true,
+		"creator": "u/II-III-V-VII-XI"
+	},
+	{
+		"name": "Darcula",
+		"style": "dark",
+		"accentColor": "#cc7832",
+		"background": "#2b2b2b",
+		"altBackground": "#313335",
+		"flyoutBackground": "#46484a",
+		"tabBarBackground": "#313335",
+		"mainFont": "#a9b7c6",
+		"isCustom": true,
+		"creator": "u/II-III-V-VII-XI"
 	}
 ]
