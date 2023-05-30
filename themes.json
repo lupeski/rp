@@ -516,6 +516,18 @@
 		"creator": "u/II-III-V-VII-XI"
 	},
 	{
+		"name": "Everforest 2",
+		"style": "dark",
+		"accentColor": "#a7c080",
+		"background": "#2d353b",
+		"altBackground": "#232a2e",
+		"flyoutBackground": "#475258",
+		"tabBarBackground": "#232a2e",
+		"mainFont": "#d3c6aa",
+		"isCustom": true,
+		"creator": "u/II-III-V-VII-XI"
+	},
+	{
 		"name": "YaGotta Believe",
 		"style": "dark",
 		"accentColor": "#8d918d",
@@ -620,6 +632,30 @@
 		"flyoutBackground": "#46484a",
 		"tabBarBackground": "#313335",
 		"mainFont": "#a9b7c6",
+		"isCustom": true,
+		"creator": "u/II-III-V-VII-XI"
+	},
+	{
+		"name": "Selenized Dark",
+		"style": "dark",
+		"accentColor": "#fa5750",
+		"background": "#103c48",
+		"altBackground": "#174956",
+		"flyoutBackground": "#325b66",
+		"tabBarBackground": "#174956",
+		"mainFont": "#dbb32d",
+		"isCustom": true,
+		"creator": "u/II-III-V-VII-XI"
+	},
+	{
+		"name": "Selenized Dark",
+		"style": "dark",
+		"accentColor": "#d2212d",
+		"background": "#fbf3db",
+		"altBackground": "#e9e4d0",
+		"flyoutBackground": "#cfcebe",
+		"tabBarBackground": "#e9e4d0",
+		"mainFont": "#0072d4",
 		"isCustom": true,
 		"creator": "u/II-III-V-VII-XI"
 	}
