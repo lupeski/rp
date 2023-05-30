@@ -648,8 +648,8 @@
 		"creator": "u/II-III-V-VII-XI"
 	},
 	{
-		"name": "Selenized Dark",
-		"style": "dark",
+		"name": "Selenized Light",
+		"style": "light",
 		"accentColor": "#d2212d",
 		"background": "#fbf3db",
 		"altBackground": "#e9e4d0",
